@@ -1,12 +1,12 @@
 {
-  "name": "myappdescktop",
+  "name": "myAppElectron",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start" : "electron main.js"
   },
-  "author": "Meviim",
+  "author": "Neviim Jads",
   "license": "ISC",
   "dependencies": {
     "electron": "^1.7.11"
